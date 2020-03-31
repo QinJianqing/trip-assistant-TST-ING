@@ -1,7 +1,7 @@
 {
   "name": "API 文档",
   "version": "1.0.0",
-  "title": "API",
+  "title": "trip-assistant-tst-ing API",
   "url": "http://122.51.247.168/company/api/v1/trip-assistant-tst-ing/",
   "sampleUrl": "http://122.51.247.168/company/api/v1/trip-assistant-tst-ing/",
   "forceLanguage": "zh-cn",
