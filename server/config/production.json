@@ -1,0 +1,12 @@
+{
+  "trip": {
+    "db": {
+      "host": "122.51.247.168",
+      "port": 31306,
+      "user": "root",
+      "password": "",
+      "database": "tripdb"
+    }
+  },
+  "upstream": {}
+}

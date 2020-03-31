@@ -1,2 +1,1 @@
-# trip-assistant-TST-ING
-trip-assistant
+# trip-assistant-tst-ing
